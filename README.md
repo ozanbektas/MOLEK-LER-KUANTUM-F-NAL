@@ -32,7 +32,7 @@ Yeni yoğunluk matrisini eski matrisle karşılaştırarak yakınsama kontrolü 
 
 Enerji Hesaplaması:
 Son adımda, toplam enerjiyi hesaplarız. Bu enerji, elektronların toplam enerjisi ve çekirdekler arası itme enerjisinin toplamıdır.
-Anahtar Kavramlar
+
 
 Öz-Uyumlu Alan (SCF) Yöntemi:
 Bir çok elektronlu sistemin Schrödinger denklemini iteratif olarak çözen ve kararlı bir elektron yoğunluğu dağılımı elde etmeye çalışan bir yöntemdir.
